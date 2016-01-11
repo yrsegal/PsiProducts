@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "psiproducts",
+        "name": "Psi Dot Products",
+        "description": "dammit vazkii",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "",
+        "updateUrl": "",
+        "authorList": ["WireSegal"],
+        "credits": "Vazkii",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
